@@ -24,4 +24,4 @@ to start the game type i n the termenal
 then go to a browser and type:
 "localhost:3000"
 
-and enjoy the gae=me
+and enjoy the game
